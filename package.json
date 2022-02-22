@@ -1,6 +1,6 @@
 {
-  "name": "my-prime",
-  "version": "1.0.1",
+  "name": "node-export-excel",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinnatul/isPrime.git"
+    "url": "git+https://github.com/jinnatul/node-export-excel.git"
   },
   "author": "Morol",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jinnatul/isPrime/issues"
+    "url": "https://github.com/jinnatul/node-export-excel/issues"
   },
-  "homepage": "https://github.com/jinnatul/isPrime#readme",
+  "homepage": "https://github.com/jinnatul/node-export-excel#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "node-excel-export": "^1.4.4"
   }
 }
