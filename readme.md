@@ -1,7 +1,6 @@
 <div align='center'>
 
 ![npm](https://badgen.net/npm/v/node-export-excel)
-![install size](https://badgen.net/packagephobia/install/node-export-excel)
 ![stars](https://badgen.net/github/stars/jinnatul/node-export-excel)
 ![npm](https://img.shields.io/npm/dw/node-export-excel)
 ![total downloads](https://badgen.net/npm/dt/node-export-excel)
