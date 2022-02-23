@@ -1,6 +1,6 @@
 {
   "name": "node-export-excel",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/jinnatul/node-export-excel.git"
   },
+  "keywords": [
+    "excel",
+    "xlsx",
+    "node-xlsx",
+    "node-export-excel",
+    "node-excel-export",
+    "excel-export",
+    "spreadsheet",
+    "file-export",
+    "SheetJS"
+  ],
   "author": "Morol",
   "license": "ISC",
   "bugs": {
