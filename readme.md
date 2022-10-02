@@ -51,7 +51,8 @@ const onExport = (data, item) => {
   const { base64, parts } = data;
   for (let i = 0; i < parts; i++) {
     const blob = new Blob([base64ToArrayBuffer(base64[i])]);
-    FileSaver.saveAs(blob, `${item.report_name}_part_${i + 1}.xlsx`);
+    if (parts === 1) FileSaver.saveAs(blob, `${item.report_name}.xlsx`);
+    else FileSaver.saveAs(blob, `${item.report_name}_part_${i + 1}.xlsx`);
   }
 };
 
