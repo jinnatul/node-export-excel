@@ -19,7 +19,7 @@ const generateReport = async (data) => {
             color: {
               rgb: "FFFFFFFF",
             },
-            sz: 14,
+            sz: 12,
             bold: true,
             underline: false,
           },
@@ -37,7 +37,7 @@ const generateReport = async (data) => {
             color: {
               rgb: "FFFFFFFF",
             },
-            sz: 14,
+            sz: 12,
             bold: true,
             underline: false,
           },

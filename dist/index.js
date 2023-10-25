@@ -43,7 +43,7 @@ var generateReport = function () {
                       color: {
                         rgb: "FFFFFFFF"
                       },
-                      sz: 14,
+                      sz: 12,
                       bold: true,
                       underline: false
                     },
@@ -61,7 +61,7 @@ var generateReport = function () {
                       color: {
                         rgb: "FFFFFFFF"
                       },
-                      sz: 14,
+                      sz: 12,
                       bold: true,
                       underline: false
                     },
